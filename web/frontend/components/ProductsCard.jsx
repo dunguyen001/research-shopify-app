@@ -64,7 +64,7 @@ export function ProductsCard() {
         <TextContainer spacing="loose">
           <p>
             Sample products are created with a default title and price. You can
-            remove them at any time.
+            remove them at any time
           </p>
           <Heading element="h4">
             TOTAL PRODUCTS
